@@ -17,11 +17,11 @@
     <string name="button_8">8</string>
     <string name="button_9">9</string>
     <string name="button_point">.</string>
-    <string name="button_clear">C</string>
+    <string name="button_clr">C</string>
     <string name="button_add">+</string>
-    <string name="button_subtract">-</string>
-    <string name="button_multi">*</string>
-    <string name="button_divide">/</string>
+    <string name="button_sub">-</string>
+    <string name="button_mul">*</string>
+    <string name="button_div">/</string>
     <string name="err_un_empty">username is empty</string>
     <string name="err_pw_empty">password is empty</string>
     <string name="err_un_false">username is wrong</string>
