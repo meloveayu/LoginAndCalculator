@@ -82,6 +82,7 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
                 break;
             case R.id.button_submit:
                 getResult(re);
+                finish();
                 break;
         }
     }
