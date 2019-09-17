@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">LoginAndCalculator</string>
-    <string name="question">Please Calculate %d * %d = ?</string>
+    <string name="question">Please Calculate %.0f %c %.0f = ?</string>
     <string name="username">Username: </string>
     <string name="password">Password: </string>
     <string name="login">LOGIN</string>
     <string name="submit">SUBMIT</string>
-    <string name="equals">%d * %d = %d</string>
+    <string name="equals">%.0f %c %.0f = %d</string>
     <string name="button_0">0</string>
     <string name="button_1">1</string>
     <string name="button_2">2</string>
@@ -27,4 +27,6 @@
     <string name="err_un_false">username is wrong</string>
     <string name="err_pw_false">password is wrong</string>
     <string name="getin">getting in!</string>
+    <string name="right_text">You finish the question!</string>
+    <string name="wrong_text">You did not make it!</string>
 </resources>
